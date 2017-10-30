@@ -65,7 +65,7 @@ $(function() {
          * hidden by default.
          */
          it('is hidden by default', function() {
-           //test that visibility is set to 'visible'
+           //test the menu-hidden visibility property
            expect($('.menu-hidden').is(':visible')).toBe(true);
           });
 
