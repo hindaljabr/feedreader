@@ -12,17 +12,17 @@ This is a web-based application that reads RSS feeds. The original developer of 
 
 ## My Tests
 
-- RSS Feeds
+### RSS Feeds
 * are defined
 * have defined non-empty URLs
 * have defined non-empty names
 
-- The menu
+### The menu
 * is hidden by default
 * changes visibility property when menu icon is clicked
 
-- Initial Entries
+### Initial Entries
 * contains at least a single entry within feed
 
-- New Feed Selection
+### New Feed Selection
 * changes content when new feed is loaded
